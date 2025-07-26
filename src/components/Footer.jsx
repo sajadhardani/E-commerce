@@ -11,7 +11,7 @@ const tweetTitle = "Recent Tweets";
 const addressList = [
   {
     iconName: "icofont-google-map",
-    text: "  Iran, Ahwaz",
+    text: "  Iran, ",
   },
   {
     iconName: "icofont-phone",
